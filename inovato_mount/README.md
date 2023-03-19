@@ -38,7 +38,7 @@ I'm very pleased with the results, and the Inovato box weighs little, so PLA is 
 
 ## Fans
 
-Several of the cases that include forced-air cooling place a fan perpendicular to the bottom of the case, because that's how the air flows from most PC case fans.
+Several other Inovato Quadra cases that include forced-air cooling place a fan perpendicular to the bottom of the case, because that's how the air flows from most PC case fans.
 But there are smaller fans that exhaust along the long axis instead of perpendicular to it.
 So I bought two "Wathai" branded 5V brushless 40mm fans online and designed a frame to hold one, that could be included in a project if desired.
 While the fans are not powerful, they can sit flush against the surface upon which the Quadra is mounted, and thus provide more options for mounting
