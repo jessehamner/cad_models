@@ -12,6 +12,7 @@ All of these models print fine with filament on my Prusa 3D printer. I've used P
 - A case for the Inovato Quadra set-top box, with several variants
 - A hanging pocket to hold an Apple Magic Mouse 2 so that it can be recharged without resting upside down on your desk
 - A tool organizer for several small tools I carry around each day (EDC / everyday carry)
+- A wall-mountable holder for a remote control (here, the remote controls the LED strips that light up my 3D printer)
 
 Naturally, more stuff is coming. But you have to start sharing somewhere.
 
