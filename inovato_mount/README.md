@@ -34,7 +34,7 @@ I'm very pleased with the results, and the Inovato box weighs little, so PLA is 
 
 | Rendering of the case | Case installed in the printer |
 | --- | --- | 
-| <img src="./images/inovato_case_with_HP_laserjet_400_door.png"> | <img src="./images/door_case_installed.jpeg"> |
+| <img src="./images/inovato_case_with_HP_laserjet_400_door.png"> This image includes holes for fasteners, but the case can just be printed as a single unit. | <img src="./images/door_case_installed.jpeg"> For the final version of this specific design, I 3D printed the unit as a single object. |
 
 ## Fans
 
